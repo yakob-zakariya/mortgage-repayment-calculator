@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/yourusername/mortgage-repayment-calculator)
+- Solution URL: [GitHub Repository](https://github.com/yakob-zakariya/mortgage-repayment-calculator)
 - Live Site URL: [Live Demo](https://your-live-site-url.com)
 
 ## My Process
@@ -138,8 +138,8 @@ Areas I want to focus on in future projects:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- GitHub - [@yourusername](https://github.com/yourusername)
+- Frontend Mentor - [@yakob-zakariya](https://www.frontendmentor.io/profile/yourusername)
+- GitHub - [@yakob-zakariya](https://github.com/yourusername](https://github.com/yakob-zakariya)
 
 ---
 
