@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/yakob-zakariya/mortgage-repayment-calculator)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Live Site URL: [Live Demo](https://691f50229968a919f0f19c7d--playful-mochi-a8326c.netlify.app/)
 
 ## My Process
 
@@ -138,8 +138,8 @@ Areas I want to focus on in future projects:
 
 ## Author
 
-- Frontend Mentor - [@yakob-zakariya](https://www.frontendmentor.io/profile/yourusername)
-- GitHub - [@yakob-zakariya](https://github.com/yourusername](https://github.com/yakob-zakariya)
+- Frontend Mentor - [@yakob-zakariya](https://www.frontendmentor.io/profile/yakob-zakariya)
+- GitHub - [@yakob-zakariya](https://github.com/yakob-zakariya/mortgage-repayment-calculator)
 
 ---
 
@@ -155,7 +155,7 @@ Areas I want to focus on in future projects:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/mortgage-repayment-calculator.git
+git clone https://github.com/yakob-zakariya/mortgage-repayment-calculator.git
 ```
 
 2. Install dependencies
